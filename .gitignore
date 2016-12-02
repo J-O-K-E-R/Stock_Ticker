@@ -1,0 +1,14 @@
+﻿
+/Stock_Ticker/.vs/Stock_Ticker/v14/**
+=======
+###################
+# compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
