@@ -1,5 +1,6 @@
 ﻿
 /Stock_Ticker/.vs/Stock_Ticker/v14/**
+/Stock_Ticker/.vs/config/applicationhost.config
 =======
 ###################
 # compiled source #
@@ -12,3 +13,18 @@
 *.dll.config
 *.cache
 *.suo
+###############
+# Directories #
+###############
+Stock_Ticker/Stock_Ticker/bin
+Stock_Ticker/Stock_Ticker/obj
+Stock_Ticker/.vs
+Stock_Ticker/Stock_Ticker/obj/Debug
+# Include dlls if they’re in the NuGet packages directory
+!/packages/*/lib/*.dll
+!/packages/*/lib/*/*.dll
+######################
+# Logs and databases #
+######################
+*.log
+*.sqlite
