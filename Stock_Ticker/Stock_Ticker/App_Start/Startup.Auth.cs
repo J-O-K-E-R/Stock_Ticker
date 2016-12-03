@@ -54,9 +54,9 @@ namespace Stock_Ticker
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "1824382561180487",
+               appSecret: "31a09f72d872e3b4e9348c801396a956");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{

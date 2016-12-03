@@ -13,6 +13,8 @@
 *.dll.config
 *.cache
 *.suo
+*.mdf
+*.ldf
 ###############
 # Directories #
 ###############
